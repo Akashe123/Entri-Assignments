@@ -1,78 +1,95 @@
-
 # 🐍 Entri Data Analytics — Python Assignments
 
-Welcome to my **Python Assignments Repository**, created as part of my **Data Analytics course at Entri**.
+<div align="center">
 
-This repository contains my Python coursework, assignment solutions, and hands-on practice exercises completed throughout my learning journey. It showcases my progress in Python programming and my understanding of fundamental concepts used in data analytics.
+## 📊 Learn • Practice • Analyze • Build
 
-## 📚 About This Repository
+**My journey into Data Analytics through Python, programming, and practical assignments.**
 
-The purpose of this repository is to:
+<br>
 
-- Store and organize my Python course assignments.
-- Practice Python programming through hands-on exercises.
-- Strengthen my problem-solving and logical-thinking skills.
-- Document my learning progress throughout the course.
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🧠 Topics Covered
+</div>
 
-Assignments may include topics such as:
+---
 
-- Python fundamentals and syntax
-- Variables and data types
-- Conditional statements
-- Lists, dictionaries, and sets
-- Loops and functions
-- Data manipulation and problem-solving
+## 👋 About This Repository
 
-## 🛠️ Tools Used
+Welcome to my **Entri Data Analytics Assignment Repository**!
 
-- **Python** — Programming and problem-solving
-- **Jupyter Notebook** — Writing, running, and documenting Python code
-- **Visual Studio Code** — Code editing and development
-- **Git & GitHub** — Version control and assignment management
+This repository contains my **Python assignments, Jupyter Notebooks, coding exercises, and data analytics practice** completed during my learning journey at **Entri**.
+
+The purpose of this repository is to practice programming concepts, improve problem-solving skills, and develop a strong foundation in **Data Analytics and Python**.
+
+---
+
+## 🎯 Learning Goals
+
+- 🐍 Build strong Python fundamentals
+- 🧠 Improve logical and problem-solving skills
+- 📚 Understand Python data structures
+- 🔄 Practice loops and functions
+- 🔢 Learn NumPy
+- 🐼 Learn Pandas
+- 📊 Understand data analysis
+- 📈 Explore data visualization
+- 🗄️ Improve SQL skills
+- 🤖 Explore Machine Learning
+- 💻 Build practical projects
+
+---
+
+## 📚 Topics Covered
+
+| 📌 Topic | 🚦 Status |
+|:---|:---:|
+| 🐍 Python Fundamentals | ✅ |
+| 🔤 Strings & Tuples | ✅ |
+| 📋 Lists & Dictionaries | ✅ |
+| 🔄 Loops | ✅ |
+| ⚙️ Functions | ✅ |
+| 🔢 NumPy | 🚀 |
+| 🐼 Pandas | 🚀 |
+| 📊 Data Analysis | 🚀 |
+| 📈 Data Visualization | 🔜 |
+| 🗄️ SQL | 🔜 |
+| 🤖 Machine Learning | 🔜 |
+
+---
+
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+| 🛠️ Technology | 💡 Used For |
+|:---:|:---|
+| 🐍 **Python** | Programming & Data Analysis |
+| 📓 **Jupyter Notebook** | Assignments & Practice |
+| 🔢 **NumPy** | Numerical Computing |
+| 🐼 **Pandas** | Data Manipulation |
+| 📊 **Matplotlib** | Data Visualization |
+| 🗄️ **SQL** | Database & Data Analysis |
+| 🌐 **Git & GitHub** | Version Control |
+| 💻 **VS Code** | Development |
+
+</div>
+
+---
 
 ## 📂 Repository Structure
 
 ```text
-entri-python-assignments/
+Entri-Assignments/
 │
-├── Python_Assignment_2_Answers.ipynb
+├── 📓 Module_End_Assignment_3_Python_Fundamentals-Survey_Feedback_Analyzer.ipynb
+├── 📓 Python Assignment 1 Data Structures Strings Tuples.ipynb
+├── 📓 Python_Assignment_2_Answers.ipynb
+├── 📓 Python_Assignment_3.ipynb
+├── 📓 Python_DA_Assignment_1_Data_Analysis_using_NumPy_and_Pandas.ipynb
 │
-└── README.md
-```
-
-As I complete more assignments, I will add them to this repository.
-
-## 🚀 How to Run the Notebooks
-
-1. Clone or download this repository.
-2. Open the repository folder in Jupyter Notebook or Visual Studio Code.
-3. Open the required `.ipynb` file.
-4. Run the notebook cells to view the code and outputs.
-
-To install Jupyter Notebook, run:
-
-```bash
-pip install notebook
-```
-
-Then launch it:
-
-```bash
-jupyter notebook
-```
-
-## 🎯 Learning Objective
-
-My goal is to build a strong foundation in Python, improve my coding and analytical skills, and apply these skills to real-world data analytics tasks.
-
-## 👤 Author
-
-**Akash**
-
-GitHub: [@Akashe123](https://github.com/Akashe123)
-
----
-
-⭐ Thanks for visiting my repository!
+└── 📄 README.md
